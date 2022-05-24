@@ -2,8 +2,6 @@
 
 Still in developing... Definitely not a stable release.
 
-Read [this doc](http://47.94.237.126/omnisketch/index.html).
-
 ### Get the repo
 
 This repo includes submodules. You should clone with
